@@ -61,3 +61,12 @@ Q8) Pick out only the significant variables from the previous question. Make ano
    d) Write the regression equation from this model.
 
 
+## Observations:
+
+• The price of house is least dependent on Crime Rate of the Locality.
+
+• The NOX variable is having the most inverse relation with price of the house. Any increase in value of NOX creates a significant drop in the price of the house.
+
+• Houses having high number of rooms are sold at a higher price.
+
+• The PTRatio is Having an inverse relation with the price of house. An increase in PTRatio will lead to a drop in price of house.
